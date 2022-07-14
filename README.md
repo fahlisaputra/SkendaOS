@@ -10,7 +10,7 @@ Here is the current architecture of SkendaOS:
 ### Software Architecture
 ![Software Architecture](/Resources/Architecture/Sofrware_Architecture.jpg)
 
-## Software Architecture
+## Code Structures
 ![Code Structures](/Resources/Architecture/Code_Structures.jpg)
 
 
